@@ -1,0 +1,10 @@
+house_prices_categorical_features.txt
+
+:Author: entro
+:Email: entropy1208@yahoo.co.in
+
+MSZoning, Street, Alley, LotShape, LandContour, Utilities, LotConfig, LandSlope, Neighborhood, 
+Condition1, Condition2, BldgType, HouseStyle, RoofStyle, RoofMatl, Exterior1st, Exterior2nd, MasVnrType, 
+Foundation, Heating, CentralAir, Electrical, Functional, GarageType, GarageFinish, PavedDrive, 
+MiscFeature, SaleType, SaleCondition
+

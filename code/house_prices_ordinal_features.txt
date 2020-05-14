@@ -1,0 +1,8 @@
+house_prices_ordinal_features.txt
+
+:Author: entro
+:Email: entropy1208@yahoo.co.in
+:Date: 2018-01-24 07:14
+
+ExterQual, ExterCond, BsmtQual, BsmtCond, BsmtExposure, BsmtFinType1, BsmtFinType2, 
+HeatingQC, KitchenQual, FireplaceQu, GarageQual, GarageCond, PoolQC, Fence
