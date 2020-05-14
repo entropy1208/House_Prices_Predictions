@@ -1,6 +1,6 @@
 # House_Prices_Predictions
 
-### Description
+### Description:-
 
 My project for the Machine Learning course - DV2542. The main idea is to compare various ordinal encoding techniques for the ordinal categorical variables of the house prices dataset in terms of accuracies.
 
@@ -22,10 +22,6 @@ Numpy(1.13.3), Pandas(0.21.0), SciKit-learn(0.19.0), Matplotlib(2.1.2) and Categ
 
 To install a prerequisite, use:- pip install <package_name>.
 
-### License
+### License:-
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-
-
-
