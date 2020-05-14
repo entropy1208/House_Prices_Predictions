@@ -14,13 +14,13 @@ The project code contains 3 more additional files:-
 2. house_prices_ordinal_features.txt - Lists the ordinal categorical features of the above dataset.
 3. house_prices.py - The main file.
 
-### Prerequisites:-
+### Pre-requisites:-
 
 Numpy(1.13.3), Pandas(0.21.0), SciKit-learn(0.19.0), Matplotlib(2.1.2) and Category-encoders(1.3.0)
 
 ### Installation:-
 
-To install a prerequisite, use:- pip install <package_name>.
+To install a pre-requisite, use:- pip install <package_name>.
 
 ### License:-
 
