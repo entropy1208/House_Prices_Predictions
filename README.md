@@ -2,7 +2,7 @@
 
 ### Description:-
 
-My project for the Machine Learning course - DV2542. The main idea is to compare various ordinal encoding techniques for the ordinal categorical variables of the house prices dataset in terms of accuracies.
+My project for the Machine learning course - DV2542. The main idea is to compare various ordinal encoding techniques for the ordinal categorical variables of the house prices dataset in terms of accuracies.
 
 
 The dataset is collected from the Kaggle House Prices competition.
